@@ -28,7 +28,7 @@ I'm a passionate DevOps engineer with experience of automating deployments, impr
     </td>
     <td width="50%" align="center">
 
-![Tech Animation](https://github.com/sheik-mds/sheik-mohammed/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966.gif)
+![Tech Animation](https://github.com/sheik-mds/sheik-mds/blob/main/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e676966.gif)
 
     </td>
   </tr>
